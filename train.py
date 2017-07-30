@@ -176,5 +176,3 @@ if __name__ == '__main__':
     mini_batch_size=100
     test_interval=2
     net.SGD(train_set, epochs, mini_batch_size, test_interval,3.0,validation_set)
-
-    #97%
