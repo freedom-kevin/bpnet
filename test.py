@@ -16,5 +16,3 @@ if __name__ == '__main__':
             correct += 1
     print("Error for test data is: {0}".format(1-correct/len(test_set)))
     print("Test takes: {0}s".format(time.time()-begin_time))
-
-    #95.2%
