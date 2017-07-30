@@ -6,5 +6,5 @@ You must download dataset of the handwritten digits from http://yann.lecun.com/e
 cd bpnet\
 'python train.py'
 # Test
-'cd bpnet'\
-'python test.py'
+`cd bpnet`\
+`python test.py`
